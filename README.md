@@ -1,5 +1,5 @@
 # wheel
 
-检验是否学到位，就看能否手写出来常见的框架~~
-
-锻炼自己的思维和手写代码能力
+### Promise
+- 实现Promise.all: promise_all
+- 并发请求控制: promise_limit
